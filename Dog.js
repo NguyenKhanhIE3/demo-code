@@ -1,3 +1,5 @@
-function Dog(){
+function Dog(age ){
+    this.age = age 
+    
     
 }
