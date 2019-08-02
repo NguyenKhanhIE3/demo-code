@@ -1,6 +1,6 @@
 function Cat(name ){
     this.name = name ;
 }
-function meo(){
-    
+function meo(age ){
+    this.age = age;
 }
